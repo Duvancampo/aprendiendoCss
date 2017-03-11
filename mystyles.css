@@ -1,0 +1,12 @@
+body {
+
+	display: flex;
+	flex-direction: row;
+}
+#divuno{
+	background-color: #96CAA4;
+    
+}
+#divdos{
+	background-color: #7A7A7A;
+}
